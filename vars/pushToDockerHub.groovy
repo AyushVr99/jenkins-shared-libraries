@@ -1,4 +1,4 @@
-def pushToDockerHub(
+def call(
     String imageName,
     String tag = 'latest',
     String credentialsId
